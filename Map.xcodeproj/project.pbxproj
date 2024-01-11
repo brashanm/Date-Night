@@ -11,6 +11,8 @@
 		42832E4E2B1EAD0A00475F33 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42832E4D2B1EAD0A00475F33 /* ContentView.swift */; };
 		42832E502B1EAD0E00475F33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42832E4F2B1EAD0E00475F33 /* Assets.xcassets */; };
 		42832E532B1EAD0E00475F33 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42832E522B1EAD0E00475F33 /* Preview Assets.xcassets */; };
+		42832E5C2B1EC7B600475F33 /* TorontoButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42832E5B2B1EC7B600475F33 /* TorontoButtons.swift */; };
+		42832E5E2B1EDA7600475F33 /* ItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42832E5D2B1EDA7600475F33 /* ItemInfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		42832E4D2B1EAD0A00475F33 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		42832E4F2B1EAD0E00475F33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42832E522B1EAD0E00475F33 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		42832E5B2B1EC7B600475F33 /* TorontoButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorontoButtons.swift; sourceTree = "<group>"; };
+		42832E5D2B1EDA7600475F33 /* ItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemInfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				42832E4B2B1EAD0A00475F33 /* MapApp.swift */,
 				42832E4D2B1EAD0A00475F33 /* ContentView.swift */,
+				42832E5D2B1EDA7600475F33 /* ItemInfoView.swift */,
+				42832E5B2B1EC7B600475F33 /* TorontoButtons.swift */,
 				42832E4F2B1EAD0E00475F33 /* Assets.xcassets */,
 				42832E512B1EAD0E00475F33 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				42832E4E2B1EAD0A00475F33 /* ContentView.swift in Sources */,
 				42832E4C2B1EAD0A00475F33 /* MapApp.swift in Sources */,
+				42832E5C2B1EC7B600475F33 /* TorontoButtons.swift in Sources */,
+				42832E5E2B1EDA7600475F33 /* ItemInfoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
